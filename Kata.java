@@ -7,7 +7,6 @@
 
 // Input: 1254859723 Output: 3279584521
 class Kata {
-
   public static class ReverseOrderList {
     public static int ReversedOrder(int num) {
       // Bust a move right here
@@ -27,6 +26,7 @@ class Kata {
     }
   }
 
+  // This is great!
   public static void main(String args[]) {
     System.out.println("Hello, World");
 
